@@ -1,5 +1,5 @@
 # Instantly.ai Campaign Dashboard
-This is a dashboard to pull campaign analytics from instantly between the dates specified. This will list all the campaigns created in the instantly account you are connected with the API Key. You can make a copy of https://docs.google.com/spreadsheets/d/1B0q3310Ha_KY5fqiargsW3UpMu1i5GOrtfNA0vbWPeI Google sheet and get started.
+This is a dashboard to pull campaign analytics from instantly between the dates specified. This will list all the campaigns created in the instantly account you are connected with the API Key. You can make a copy of https://docs.google.com/spreadsheets/d/1B0q3310Ha_KY5fqiargsW3UpMu1i5GOrtfNA0vbWPeI Google sheet and get started. We have also published an article [Instantly Analytics to Google Sheets](https://www.zyxware.com/article/6580/instantly-analytics-to-google-sheets). Plesae let us know your feedback.
 
 ![Dashboard-Instantly](https://github.com/zyxware/instantly-analytics-dashboard/assets/109938/c52fc394-5121-4910-bae8-095a0ff61361)
 
@@ -13,7 +13,6 @@ This application was developed as an internal tool and we would continue to impr
 We are a software development company. We help organizations transforms their digital operations and primarly focus on Digital Experience Platforms using Drupal. We love Free Software and try to contribute to it both through direct code contributions as well as through community level promotional activities. You can see more about us at https://www.zyxware.com
 
 # Contact
-https://github.com/zyxware/instantly-analytics-dashboard
 https://www.zyxware.com/contact-us
 
 # License
@@ -24,3 +23,6 @@ The source code for the Google Apps Script being used as part of this applicatio
 
 # Reporting Issues
 https://github.com/zyxware/instantly-analytics-dashboard/issues
+
+
+
