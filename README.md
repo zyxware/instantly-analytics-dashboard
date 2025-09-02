@@ -1,5 +1,5 @@
 # Instantly.ai Campaign Dashboard
-This is a dashboard to pull campaign analytics from instantly between the dates specified. This will list all the campaigns created in the instantly account you are connected with the API Key. You can make a copy of https://docs.google.com/spreadsheets/d/17yqlHY8Q1pFGhlNiksrEoA4E6wJuWwo-jGJBlhaBsoU/ Google sheet and get started. We have also published an article [Instantly Analytics to Google Sheets](https://www.zyxware.com/article/6580/instantly-analytics-to-google-sheets). Plesae let us know your feedback.
+This is a dashboard to pull campaign analytics from instantly between the dates specified. This will list all the campaigns created in the instantly account you are connected with the API Key. You can make a copy of https://docs.google.com/spreadsheets/d/17yqlHY8Q1pFGhlNiksrEoA4E6wJuWwo-jGJBlhaBsoU/ Google sheet and get started. Make sure that you are using **Instantly Dashboard v2.0** Google Sheet which uses the v2 of Instantly API. We have also published an article [Instantly Analytics to Google Sheets](https://www.zyxware.com/article/6580/instantly-analytics-to-google-sheets). Plesae let us know your feedback.
 
 ![Dashboard-Instantly](https://github.com/zyxware/instantly-analytics-dashboard/assets/109938/c52fc394-5121-4910-bae8-095a0ff61361)
 
